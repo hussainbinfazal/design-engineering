@@ -1,1 +1,1 @@
-[Analysis Completed](./public/Analysed%20Pallet%20ross.png)
+![Analysis Completed](./public/Analysed%20Pallet%20ross.png)
