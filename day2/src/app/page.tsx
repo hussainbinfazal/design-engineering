@@ -1,9 +1,10 @@
-import { PaletRoss } from "@/Component/paletRoss";
+
+import { Stallion } from "@/Component/stallion";
 
 
 export default function Home() {
   
   return (
-    <PaletRoss/>
+    <Stallion/>
   )
 }
