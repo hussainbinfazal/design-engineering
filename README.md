@@ -13,13 +13,13 @@ Updated components
 Screenshots
 -
 Pallet Ross analysis:
-![Pallet Ross Analysis](./public/Analysed%20Pallet%20ross.png)
+![Pallet Ross Analysis](./day2/public/Analysed%20Pallet%20ross.png)
 
 Stallion analysis:
-![Stallion Analysis](./public/Analysed%20Stallion.png)
+![Stallion Analysis](./day2/public/Analysed%20Stallion.png)
 
 Redeveloped component:
-![Redeveloped Component](./public/Redeveloped.png)
+![Redeveloped Component](./day2/public/Redeveloped.png)
 
 How to preview
 -
@@ -32,7 +32,7 @@ pnpm dev
 
 Notes
 -
-- Images are located in the `public` directory used by the app.
+- Images are located in the `day2/public` directory for this folder's assets.
 - Component sources live under `src/Component` (see `paletRoss.tsx` and `stallion.tsx`).
 
 If you'd like, I can also open `src/Component/paletRoss.tsx` and apply formatting or improve the README further.
