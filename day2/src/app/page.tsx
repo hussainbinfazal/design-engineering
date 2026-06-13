@@ -1,10 +1,11 @@
 
+import { Neoto } from "@/Component/neoto";
 import { Stallion } from "@/Component/stallion";
 
 
 export default function Home() {
   
   return (
-    <Stallion/>
+    <Neoto/>
   )
 }
