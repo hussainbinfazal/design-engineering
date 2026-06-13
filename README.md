@@ -21,6 +21,16 @@ Stallion analysis:
 Redeveloped component:
 ![Redeveloped Component](./day2/public/Redeveloped.png)
 
+Day 4 preview
+-
+This section highlights the next step in the visual evolution, with stronger layout choices and more polished detail.
+
+Neato analysis:
+![Neato Analysis](./day2/public/Analysed%20Neoto.png)
+
+Redeveloped component:
+![Neato Component](./day2/public/Redeveloped%20Neato.png)
+
 How to preview
 -
 If this workspace is a Next.js project, run the dev server and open the app in your browser:
