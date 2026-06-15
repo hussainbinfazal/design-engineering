@@ -1,17 +1,42 @@
-# Day 3 — Design Iterations
+# Web Designs - Development Progress
 
-Overview
--
-This folder contains Day 3 design iterations and component redevelopments for the project. Below are the updated components, screenshots, and quick instructions to preview the work locally.
+## Day 5 — Immediate Component Analysis
 
-Updated components
--
+### Overview
+This project contains progressive design iterations and component redevelopments. Day 5 focuses on the Immediate component with detailed layout analysis and semantic markup implementation.
+
+### Day 5: Immediate Component Analysis
+
+**Component Structure:**
+- **Container** — Max height 1000px, semantic section wrapper
+  - Logo element
+  - Navigation menu — 200px width
+  - Call-to-action button
+  - Hero Section
+    - Container with flexbox column layout
+    - H2 heading — size 2xl
+    - H3 subheading — size sm
+    - CTA button
+  - Featured image — max-height 500px, rounded corners (lg)
+
+**Key Requirements:** Use semantic HTML tags throughout
+
+### Previous Days Components
 - `paletRoss` — visual analysis and refinements
 - `stallion` — revised layout and assets
-- Redeveloped component — combined improvements and fixes
+- `neoto` — component evolution
+- Redeveloped components — combined improvements and fixes
 
 Screenshots
+
 -
+Immediate analysis:
+![Immediate Analysis](./day2/public/Analysed%20Immediate.png)
+
+Redeveloped Immediate
+![Redeveloped Immediate](./day2/public/Redeveloped%20Immediate.png)
+
+
 Pallet Ross analysis:
 ![Pallet Ross Analysis](./day2/public/Analysed%20Pallet%20ross.png)
 
