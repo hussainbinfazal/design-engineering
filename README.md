@@ -45,8 +45,31 @@ Stallion analysis:
 
 Redeveloped component:
 ![Redeveloped Component](./day2/public/Redeveloped.png)
+## Day 6 — Scaler Component Analysis
 
-Day 4 preview
+**Overall Layout Structure:**
+- **Container** — full-width dark gradient background with rounded top and layered visual rhythm
+- **Header** — brand title, navigation links, and contact CTA button
+- **Hero Section** — centered headline, supporting text, and primary CTA button
+- **Visual Details** — layered glow effects and illustrated terrain wave for depth
+
+
+
+Updated components
+-
+- `Scaler` — analysed layout and redeveloped version
+- `Immediate` — analysed layout and component structure
+- `paletRoss` — visual analysis and refinements
+- `stallion` — revised layout and assets
+
+Screenshots
+-Day 6 preview
+Analysed Scalar:
+![Analysed Scalar](./day2/public/Analysed%20Scalar.png)
+
+Redeveloped Scalar:
+![Redeveloped Scalar](./day2/public/Redeveloped%20Scalar.png)
+Day 5 preview
 -
 This section highlights the next step in the visual evolution, with stronger layout choices and more polished detail.
 

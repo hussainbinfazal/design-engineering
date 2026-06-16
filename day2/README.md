@@ -41,6 +41,29 @@ Stallion analysis:
 Redeveloped component:
 ![Redeveloped Component](./public/Redeveloped.png)
 
+## Day 6 — Scaler Component Analysis
+
+**Overall Layout Structure:**
+- **Container** — full-screen dark gradient and structured hero section
+- **Header** — site title, nav links, and contact CTA
+- **Hero Block** — centered headline, subtext, and action button
+- **Glow & Wave Section** — layered glow effects and a custom terrain wave illustration
+
+Updated components
+-
+- `Scaler` — analysed layout and redeveloped version
+- `Immediate` — analysed layout and component structure
+- `paletRoss` — visual analysis and refinements
+- `stallion` — revised layout and assets
+
+Screenshots
+-
+Analysed Scalar:
+![Analysed Scalar](./Analysed%20Scalar.png)
+
+Redeveloped Scalar:
+![Redeveloped Scalar](./Redeveloped%20Scalar.png)
+
 How to preview
 -
 If this workspace is a Next.js project, run the dev server and open the app in your browser:
