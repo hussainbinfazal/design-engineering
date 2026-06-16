@@ -34,7 +34,7 @@ Immediate analysis:
 ![Immediate Analysis](./day2/public/Analysed%20Immediate.png)
 
 Redeveloped Immediate
-![Redeveloped Immediate](./day2/public/Redeveloped%20Immediate.png)
+![Redeveloped Immediate   ](./day2/public/Redeveloped%20Immediate.png)
 
 
 Pallet Ross analysis:
