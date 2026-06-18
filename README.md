@@ -1,5 +1,25 @@
 # Web Designs - Development Progress
 
+## Day 7 — Ease Component Recreation
+
+**Component Structure:**
+- **Container** — max-width 1200px, semantic section wrapper
+  - Header with logo, navigation menu, and CTA button
+  - Main content section with semantic structure
+  - Dynamic card system with image support
+  - Responsive grid layout
+  - Call-to-action buttons with styling
+
+**Key Features:**
+- Client-side component using 'use client' directive
+- Semantic HTML implementation
+- Tailwind CSS for styling
+- Responsive design with flexbox
+- Integration with Next.js Image component
+
+**Components Updated:**
+- `Ease` — recreated with improved layout and semantic structure
+
 ## Day 5 — Immediate Component Analysis
 
 ### Overview
@@ -92,5 +112,41 @@ Notes
 -
 - Images are located in the `day2/public` directory for this folder's assets.
 - Component sources live under `src/Component` (see `paletRoss.tsx` and `stallion.tsx`).
+
+## Day 7 — Ease Component Recreation
+
+**Component Structure:**
+- **Container** — max-width 1200px, semantic section wrapper
+  - Header with logo, navigation menu, and CTA button
+  - Main content section with semantic structure
+  - Dynamic card system with image support
+  - Responsive grid layout
+  - Call-to-action buttons with styling
+
+**Key Features:**
+- Client-side component using 'use client' directive
+- Semantic HTML implementation
+- Tailwind CSS for styling
+- Responsive design with flexbox
+- Integration with Next.js Image component
+
+**Components Updated:**
+- `Ease` — recreated with improved layout and semantic structure
+
+Screenshots
+
+Analysed Ease:
+![Analysed Ease](./day2/public/Analysed%20Ease.png)
+
+Redeveloped Ease:
+![Redeveloped Ease](./day2/public/Redeveloped%20Ease.png)
+
+**Navigation & Components:**
+- `paletRoss` — visual analysis and refinements
+- `stallion` — revised layout and assets
+- `neoto` — component evolution
+- `Immediate` — analysed layout and component structure
+- `Scaler` — analysed layout and redeveloped version
+- `Ease` — newly recreated component
 
 If you'd like, I can also open `src/Component/paletRoss.tsx` and apply formatting or improve the README further.
