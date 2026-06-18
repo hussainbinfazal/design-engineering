@@ -61,3 +61,36 @@ Background Effect
 - absolute
 - blur
 - gradient glow
+
+
+#Day7
+Ease Analysis
+Container
+max-width: 1200px
+centered
+
+Header
+height: 80px
+
+Layout:
+[Logo] [Nav] [CTA]
+
+Hero
+display: grid
+grid-cols: 2
+
+Left (40%)
+- Heading
+- Description
+- CTA
+
+Right (60%)
+- Workflow visualization
+- CRM card
+- EHR card
+- RCM card
+
+Footer
+Investor logos row
+display: flex
+justify-between

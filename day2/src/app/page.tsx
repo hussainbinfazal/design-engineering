@@ -1,4 +1,5 @@
 
+import { Ease } from "@/Component/Ease";
 import { Function } from "@/Component/Function";
 
 
@@ -6,6 +7,6 @@ import { Function } from "@/Component/Function";
 export default function Home() {
   
   return (
-    <Function/>
+    <Ease/>
   )
 }
