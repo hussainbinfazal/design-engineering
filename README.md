@@ -2,7 +2,7 @@
 
 
 #Day8
-Analysed Ease:
+Analysed Spade:
 ![Analysed Spade](./day2/public/Analysed%20Spade.png)
 
 Redeveloped Ease:
