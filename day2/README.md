@@ -63,6 +63,29 @@ Analysed Scalar:
 
 Redeveloped Scalar:
 ![Redeveloped Scalar](./Redeveloped%20Scalar.png)
+## Day 8 — Spade Component Redevelopment
+
+**Overall Layout Structure:**
+- **Container** — full-height landing section with centered content and a soft neutral background
+- **Header** — brand title, navigation, and contact CTA
+- **Hero Card** — finance platform messaging with AI/transaction focus and clear call to action
+- **Visual details** — translucent overlay, rounded panel, and responsive spacing
+
+Updated components
+-
+- `Spade` — redeveloped finance platform hero section
+- `Scaler` — analysed layout and redeveloped version
+- `Immediate` — analysed layout and component structure
+- `paletRoss` — visual analysis and refinements
+- `stallion` — revised layout and assets
+
+Screenshots
+-
+Analysed Spade:
+![Analysed Spade](./public/Analysed%20Spade.png)
+
+Recreated Spade:
+![Recreated Spade](./public/Recreated%20Spade.png)
 
 How to preview
 -
