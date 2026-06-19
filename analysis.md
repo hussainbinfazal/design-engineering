@@ -102,3 +102,26 @@ Recreated Ease Component
 - Responsive layout with flexbox
 - Clean styling with Tailwind CSS
 - Navigation links and demo booking functionality
+
+
+Improved Analysis after feedback
+#Day 8 Spade
+Container
+- max-width: 1400
+- min-height: 100vh
+- cream Background
+
+Header
+- height: 80
+- flex justify-between
+
+Nav
+- flex
+- gap -4
+- text-light
+
+Hero
+- max-width: 700
+- centered
+- flex-col
+- gap: 20
