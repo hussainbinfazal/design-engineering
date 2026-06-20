@@ -12,7 +12,7 @@ Analysed Spade:
 ![Analysed Spade](./day2/public/Analysed%20Spade.png)
 
 Redeveloped Ease:
-![Redeveloped Ease](./day2/public/Redeveloped%20Spade.png)
+![Redeveloped Ease](./day2/public/Recreated%20Spade.png)
 
 
 Analysed Ease:
