@@ -1,6 +1,12 @@
 # Web Designs - Development Progress
 
 
+#Day9
+Analysed Ramp:
+![Analysed Ramp](./day2/public/Analysed%20Ramp.png)
+
+Redeveloped Ease:
+![Recreated Ramp](./day2/public/Recreated%20Ramp.png)
 #Day8
 Analysed Spade:
 ![Analysed Spade](./day2/public/Analysed%20Spade.png)
