@@ -63,6 +63,27 @@ Analysed Scalar:
 
 Redeveloped Scalar:
 ![Redeveloped Scalar](./Redeveloped%20Scalar.png)
+
+## Day 9 — Ramp Component Analysis
+
+**Overall Layout Structure:**
+- **Container** — full-width landing hero with brand navigation and call to action
+- **Header** — logo, nav links, and a demo CTA button
+- **Hero Section** — centered headline, supporting copy, and email CTA
+- **Visual focus** — Ramp card imagery with soft dot-grid background and warm tone
+
+Updated components
+-
+- `Ramp` — analysed layout and recreated component
+
+Screenshots
+-
+Analysed Ramp:
+![Analysed Ramp](./Analysed%20Ramp.png)
+
+Recreated Ramp:
+![Recreated Ramp](./Recreated%20Ramp.png)
+
 ## Day 8 — Spade Component Redevelopment
 
 **Overall Layout Structure:**

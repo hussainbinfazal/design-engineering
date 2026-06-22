@@ -1,13 +1,14 @@
 # Web Designs - Development Progress
 
 
-#Day9
+# Day 9 — Ramp Component Analysis
 Analysed Ramp:
 ![Analysed Ramp](./day2/public/Analysed%20Ramp.png)
 
-Redeveloped Ease:
+Recreated Ramp:
 ![Recreated Ramp](./day2/public/Recreated%20Ramp.png)
-#Day8
+
+# Day 8
 Analysed Spade:
 ![Analysed Spade](./day2/public/Analysed%20Spade.png)
 
