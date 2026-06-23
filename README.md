@@ -1,6 +1,9 @@
 # Web Designs - Development Progress
 
 
+# Day 11 Writer Component Analysis
+
+
 # Day 9 — Ramp Component Analysis
 Analysed Ramp:
 ![Analysed Ramp](./day2/public/Analysed%20Ramp.png)
