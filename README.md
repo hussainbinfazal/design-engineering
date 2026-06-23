@@ -2,7 +2,11 @@
 
 
 # Day 11 Writer Component Analysis
+Analysed Ramp:
+![Analysed Writer](./day2/public/Analysed%20Writer.png)
 
+Recreated Ramp:
+![Recreated Writer](./day2/public/Redeveloped%20Writer.png)
 
 # Day 9 — Ramp Component Analysis
 Analysed Ramp:
