@@ -5,7 +5,7 @@
 Analysed Clerk:
 ![Analysed Writer](./day2/public/Analysed%20Clerk.png)
 
-# Day 11 Writer Component Analysis
+# Day 10 & 11 Writer Component Analysis
 Analysed Writer:
 ![Analysed Writer](./day2/public/Analysed%20Writer.png)
 
