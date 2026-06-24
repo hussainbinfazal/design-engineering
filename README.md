@@ -1,11 +1,15 @@
 # Web Designs - Development Progress
 
 
+# Day 12 Clerk Component Analysis
+Analysed Clerk:
+![Analysed Writer](./day2/public/Analysed%20Clerk.png)
+
 # Day 11 Writer Component Analysis
-Analysed Ramp:
+Analysed Writer:
 ![Analysed Writer](./day2/public/Analysed%20Writer.png)
 
-Recreated Ramp:
+Recreated Writer:
 ![Recreated Writer](./day2/public/Redeveloped%20Writer.png)
 
 # Day 9 — Ramp Component Analysis
