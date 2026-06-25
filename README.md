@@ -1,9 +1,14 @@
 # Web Designs - Development Progress
 
+# Day 13
 
 # Day 12 Clerk Component Analysis
 Analysed Clerk:
 ![Analysed Writer](./day2/public/Analysed%20Clerk.png)
+Recreated Clerk :
+![Recreated Clerk](./day2/public/Redeveloped%20Clerk.png)
+
+
 
 # Day 10 & 11 Writer Component Analysis
 Analysed Writer:

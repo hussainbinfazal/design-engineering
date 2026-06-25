@@ -1,4 +1,5 @@
 
+import { Clerk } from "@/Component/Clerk";
 import { Ease } from "@/Component/Ease";
 import { Function } from "@/Component/Function";
 import { Ramp } from "@/Component/Ramp";
@@ -10,6 +11,6 @@ import { Writer } from "@/Component/Writer";
 export default function Home() {
   
   return (
-    <Writer/>
+    <Clerk/>
   )
 }
