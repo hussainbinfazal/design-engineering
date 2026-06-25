@@ -5,6 +5,8 @@
 # Day 12 Clerk Component Analysis
 Analysed Clerk:
 ![Analysed Writer](./day2/public/Analysed%20Clerk.png)
+
+
 Recreated Clerk :
 ![Recreated Clerk](./day2/public/Redeveloped%20Clerk.png)
 
