@@ -1,6 +1,9 @@
 # Web Designs - Development Progress
 
 # Day 13
+Analysed Clerk:
+![Analysed Chatbase](./day2/public/Analysed%20Chatbase.png)
+
 
 # Day 12 Clerk Component Analysis
 Analysed Clerk:
