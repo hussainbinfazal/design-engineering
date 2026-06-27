@@ -1,5 +1,10 @@
 # Web Designs - Development Progress
 
+# Day 14
+Analysed Kamoot:
+![Analysed Kamoot](./day2/public/Analysed%20kamoot.png)
+
+
 # Day 13
 Analysed Clerk:
 ![Analysed Chatbase](./day2/public/Analysed%20Chatbase.png)
