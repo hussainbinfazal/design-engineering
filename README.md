@@ -1,5 +1,9 @@
 # Web Designs - Development Progress
 
+# Day 15
+Analysed Kamoot:
+![Analysed Kamoot](./day2/public/Analysed%20kamoot.png)
+
 # Day 14
 Analysed Kamoot:
 ![Analysed Kamoot](./day2/public/Analysed%20kamoot.png)
