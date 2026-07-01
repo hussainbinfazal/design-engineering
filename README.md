@@ -3,6 +3,7 @@
 # Day 15
 Analysed Kamoot:
 ![Analysed Kamoot](./day2/public/Analysed%20kamoot.png)
+
 Redeveloped Kamoot
 ![Redeveloped Kamoot](./day2/public/Redeveloped%20Kamoot.png)
 
