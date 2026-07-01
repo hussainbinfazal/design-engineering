@@ -1,4 +1,5 @@
 
+import { Kamoot } from "@/Component/15Kamoot";
 import { Clerk } from "@/Component/Clerk";
 import { Ease } from "@/Component/Ease";
 import { Function } from "@/Component/Function";
@@ -11,6 +12,6 @@ import { Writer } from "@/Component/Writer";
 export default function Home() {
   
   return (
-    <Clerk/>
+    <Kamoot/>
   )
 }
