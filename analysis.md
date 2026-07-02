@@ -125,3 +125,37 @@ Hero
 - centered
 - flex-col
 - gap: 20
+
+
+#Analysed Tidal
+ Container
+- max-w-[1600px]
+- mx-auto
+- px-10
+
+Layout
+- flex
+
+Sidebar
+- w-64
+- fixed
+- flex-col
+
+Navbar
+- h-20
+- flex
+- justify-between
+
+Hero
+- grid-cols-2
+- gap-12
+
+Album List
+- flex
+- overflow-x-auto
+- gap-6
+
+Card
+- w-48
+- rounded-xl
+- hover:scale-105
