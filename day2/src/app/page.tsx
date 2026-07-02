@@ -1,17 +1,9 @@
 
-import { Kamoot } from "@/Component/15Kamoot";
-import { Clerk } from "@/Component/Clerk";
-import { Ease } from "@/Component/Ease";
-import { Function } from "@/Component/Function";
-import { Ramp } from "@/Component/Ramp";
-import { Spade } from "@/Component/Spade";
-import { Writer } from "@/Component/Writer";
-
-
+import { Tidal } from "@/Component/16Tidal";
 
 export default function Home() {
   
   return (
-    <Kamoot/>
+    <Tidal/>
   )
 }
