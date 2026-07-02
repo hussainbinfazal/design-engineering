@@ -1,5 +1,10 @@
 # Web Designs - Development Progress
 
+
+# Day 16
+Analysed Tidal:
+![Analysed Kamoot](./day2/public/Analysed%20Tidal.png)
+
 # Day 15
 Analysed Kamoot:
 ![Analysed Kamoot](./day2/public/Analysed%20kamoot.png)
