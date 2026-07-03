@@ -3,7 +3,7 @@
 
 # Day 16
 Analysed Tidal:
-![Analysed Kamoot](./day2/public/Analysed%20Tidal.png)
+![Analysed Juicebox](./day2/public/Analysed%20Juicebox.png)
 
 # Day 15
 Analysed Kamoot:
