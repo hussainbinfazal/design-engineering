@@ -1,9 +1,17 @@
 # Web Designs - Development Progress
 
 
+# Day 17
+Analysed Juicebox:
+![Analysed Juicebox](./day2/public/Analysed%20Juicebox.png)
+
+
 # Day 16
 Analysed Tidal:
-![Analysed Juicebox](./day2/public/Analysed%20Juicebox.png)
+![Analysed Juicebox](./day2/public/Analysed%20Tidal.png)
+
+Redeveloped Tidal
+![Redeveloped Tidal](./day2/public/Redeveloped%20Tidal.png)
 
 # Day 15
 Analysed Kamoot:
