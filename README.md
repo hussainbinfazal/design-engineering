@@ -4,6 +4,7 @@
 # Day 18
 Analysed Juicebox:
 ![Analysed Juicebox](./day2/public/Analysed%20Juicebox.png)
+![Analysed Juicebox](./day2/public/Analysed%20Juicebox.png)
 
 # Day 17
 Analysed Juicebox:
