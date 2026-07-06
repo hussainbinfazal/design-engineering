@@ -8,6 +8,7 @@ Analysed Larval:
 # Day 17
 Analysed Juicebox:
 ![Analysed Juicebox](./day2/public/Analysed%20Juicebox.png)
+
 Redeveloped Juicebox
 ![Redeveloped Juicebox](./day2/public/Redeveloped%20Juicebox.png)
 
