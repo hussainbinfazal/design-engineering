@@ -2,13 +2,14 @@
 
 
 # Day 18
-Analysed Juicebox:
-![Analysed Juicebox](./day2/public/Analysed%20Juicebox.png)
-![Analysed Juicebox](./day2/public/Analysed%20Juicebox.png)
+Analysed Larval:
+![Analysed Laraval](./day2/public/Analysed%20Laraval.png)
 
 # Day 17
 Analysed Juicebox:
 ![Analysed Juicebox](./day2/public/Analysed%20Juicebox.png)
+Redeveloped Juicebox
+![Redeveloped Juicebox](./day2/public/Redeveloped%20Juicebox.png)
 
 
 # Day 16
