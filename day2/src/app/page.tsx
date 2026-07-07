@@ -1,10 +1,9 @@
 
-import { Tidal } from "@/Component/16Tidal";
-import { Juicebox } from "@/Component/17Juicebox";
+import { Laravel } from "@/Component/18Laraval";
 
 export default function Home() {
   
   return (
-    <Juicebox/>
+    <Laravel/>
   )
 }

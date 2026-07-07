@@ -6,8 +6,12 @@ Analysed Quicken:
 ![Analysed Quicken](./day2/public/Analysed%20Quicken.png)
 
 # Day 18
-Analysed Larval:
+Analysed Larvel:
 ![Analysed Laraval](./day2/public/Analysed%20Laraval.png)
+
+Redeveloped Laravel
+![Redeveloped Laravel](./day2/public/Recreated%20Laravel.png)
+
 
 # Day 17
 Analysed Juicebox:
@@ -26,7 +30,7 @@ Redeveloped Tidal
 
 # Day 15
 Analysed Kamoot:
-![Analysed Kamoot](./day2/public/Analysed%20kamoot.png)
+![Analysed Kamoot](./day2/public/Analysed%20kamoot.png)23
 
 Redeveloped Kamoot
 ![Redeveloped Kamoot](./day2/public/Redeveloped%20Kamoot.png)
@@ -35,15 +39,24 @@ Redeveloped Kamoot
 Analysed Kamoot:
 ![Analysed Kamoot](./day2/public/Analysed%20kamoot.png)
 
+Redeveloped Kamoot
+![Redeveloped Kamoot]()
+
 
 # Day 13
 Analysed Clerk:
 ![Analysed Chatbase](./day2/public/Analysed%20Chatbase.png)
 
+Redeveloped Clerk:
+![Analysed Clerk](./day2/public/Redeveloped%20Clerk.png)
+
 
 # Day 12 Clerk Component Analysis
 Analysed Clerk:
 ![Analysed Writer](./day2/public/Analysed%20Clerk.png)
+
+Recreated Writer
+![Recreated Writer](./day2/public/Redeveloped%20Writer.png)
 
 
 Recreated Clerk :
