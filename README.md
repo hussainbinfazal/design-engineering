@@ -1,6 +1,10 @@
 # Web Designs - Development Progress
 
 
+# Day 19
+Analysed Quicken:
+![Analysed Quicken](./day2/public/Analysed%20Quicken.png)
+
 # Day 18
 Analysed Larval:
 ![Analysed Laraval](./day2/public/Analysed%20Laraval.png)

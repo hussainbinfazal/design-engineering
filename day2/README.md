@@ -115,3 +115,4 @@ Analysed Ease:
 Redeveloped Ease:
 ![Redeveloped Ease](./day2/public/Redeveloped%20Ease.png)
 
+ 
