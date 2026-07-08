@@ -10,6 +10,10 @@ Analysed Intuit:
 Analysed Quicken:
 ![Analysed Quicken](./day2/public/Analysed%20Quicken.png)
 
+Redeveloped Quicken
+![Redeveloped Quicken](./day2/public/Redeveloped%20Quicken.png)
+
+
 # Day 18
 Analysed Larvel:
 ![Analysed Laraval](./day2/public/Analysed%20Laraval.png)
