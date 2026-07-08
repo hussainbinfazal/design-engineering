@@ -1,6 +1,11 @@
 # Web Designs - Development Progress
 
 
+# Day 20
+Analysed Intuit:
+![Analysed Intuit](./day2/public/Analysed%20Intuit.png)
+
+
 # Day 19
 Analysed Quicken:
 ![Analysed Quicken](./day2/public/Analysed%20Quicken.png)
