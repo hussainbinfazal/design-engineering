@@ -44,7 +44,7 @@ Redeveloped Tidal
 
 # Day 15
 Analysed Kamoot:
-![Analysed Kamoot](./day2/public/Analysed%20kamoot.png)23
+![Analysed Kamoot](./day2/public/Analysed%20kamoot.png)
 
 Redeveloped Kamoot
 ![Redeveloped Kamoot](./day2/public/Redeveloped%20Kamoot.png)
@@ -54,8 +54,7 @@ Analysed Kamoot:
 ![Analysed Kamoot](./day2/public/Analysed%20kamoot.png)
 
 Redeveloped Kamoot
-![Redeveloped Kamoot]()
-
+![Redeveloped Kamoot](./day2/public/Redeveloped%20Kamoot.png)
 
 # Day 13
 Analysed Clerk:
@@ -68,10 +67,6 @@ Redeveloped Clerk:
 # Day 12 Clerk Component Analysis
 Analysed Clerk:
 ![Analysed Writer](./day2/public/Analysed%20Clerk.png)
-
-Recreated Writer
-![Recreated Writer](./day2/public/Redeveloped%20Writer.png)
-
 
 Recreated Clerk :
 ![Recreated Clerk](./day2/public/Redeveloped%20Clerk.png)
