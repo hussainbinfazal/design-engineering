@@ -2,8 +2,10 @@
 
 
 # Day 21
-Analysed Intuit:
-![Analysed Intuit](./day2/public/Analysed%20Intuit.png)
+Analysed Langchain:
+![Analysed Langchain](./day2/public/Analysed%20Langchain.png)
+
+
 # Day 20
 Analysed Intuit:
 ![Analysed Intuit](./day2/public/Analysed%20Intuit.png)
