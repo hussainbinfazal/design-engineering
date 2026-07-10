@@ -1,6 +1,10 @@
 # Web Designs - Development Progress
 
 
+# Day 22
+Analysed Airtable:
+![Analysed Langchain](./day2/public/Analysed%20Langchain.png)
+
 # Day 21
 Analysed Langchain:
 ![Analysed Langchain](./day2/public/Analysed%20Langchain.png)
