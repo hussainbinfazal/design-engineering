@@ -1,6 +1,10 @@
 # Web Designs - Development Progress
 
 
+# Day 23
+Analysed Notion:
+![Analysed Notion](./day2/public/Analysed%20Notion.png)
+
 # Day 22
 Analysed Airtable:
 ![Analysed Langchain](./day2/public/Analysed%20Langchain.png)
