@@ -7,7 +7,7 @@ Analysed Notion:
 
 # Day 22
 Analysed Airtable:
-![Analysed Langchain](./day2/public/Analysed%20Langchain.png)
+![Analysed Langchain](./day2/public/Analysed%20Airtable.png)
 
 # Day 21
 Analysed Langchain:
