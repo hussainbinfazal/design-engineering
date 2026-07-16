@@ -18,6 +18,8 @@ Analysed Langchain:
 Analysed Intuit:
 ![Analysed Intuit](./day2/public/Analysed%20Intuit.png)
 
+Redevoloped Intuit
+![Redevoloped Intuit](./day2/public/Redeveloped%20Intuit.png)
 
 # Day 19
 Analysed Quicken:
