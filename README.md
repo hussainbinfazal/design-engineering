@@ -13,6 +13,9 @@ Analysed Airtable:
 Analysed Langchain:
 ![Analysed Langchain](./day2/public/Analysed%20Langchain.png)
 
+Recreated Langchain:
+![Recreated Langchain](./day2/public/Recreated%20Langchain.png)
+
 
 # Day 20
 Analysed Intuit:
