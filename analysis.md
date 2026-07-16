@@ -1,6 +1,12 @@
 --use Semantic tags always 
 
 
+Curved line → "SVG curved line"
+Dotted pattern → "SVG dots pattern"
+Glow → "SVG filter glow"
+Wave → "SVG wave path"
+Blob → "SVG blob path"
+
 #Day 5
 Immediate Analysis
 
