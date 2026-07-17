@@ -13,6 +13,9 @@ Analysed Notion:
 Analysed Airtable:
 ![Analysed Langchain](./day2/public/Analysed%20Airtable.png)
 
+Redeveloped Airtable
+![Recreated Airtable](./day2/public/Redeveloped%20Airtable.png)
+
 # Day 21
 Analysed Langchain:
 ![Analysed Langchain](./day2/public/Analysed%20Langchain.png)
