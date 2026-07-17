@@ -1,6 +1,10 @@
 # Web Designs - Development Progress
 
 
+# Day 24
+Analysed Dribble:
+![Analysed Dribble](./day2/public/Analysed%20Dribble.png)
+
 # Day 23
 Analysed Notion:
 ![Analysed Notion](./day2/public/Analysed%20Notion.png)
